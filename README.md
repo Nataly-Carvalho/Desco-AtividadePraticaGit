@@ -43,11 +43,13 @@ Nesta atividade, você irá praticar o uso do Git, um sistema de controle de ver
 
 1. Submissão Inicial:
 • Publique o link do seu repositório GitHub contendo o projeto com o arquivo index.html inicial.
-
+<br>
 2. Submissão Final:
-
+<br>
 • Após adicionar a pasta images e atualizar o index.html, faça um novo push para o seu repositório.
+<br>
 • Assegure-se de que seu repositório é público para que possa ser acessado pela equipe de avaliação.
+<br>
 • Envie o link atualizado do seu repositório como forma de entrega da atividade prática.
 
 ​
@@ -55,7 +57,9 @@ Nesta atividade, você irá praticar o uso do Git, um sistema de controle de ver
 ### Entrega da Atividade:
 
 Link do repositório GitHub contendo:
-
+<br>
 • A pasta do projeto com o arquivo index.html inicial.
+<br>
 • A pasta images com a imagem selecionada.
+<br>
 • O arquivo index.html atualizado com a referência à imagem
